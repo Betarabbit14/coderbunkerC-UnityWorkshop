@@ -13,5 +13,7 @@ This is the project used for the C# workshop for Unity at CoderBunker.
 
 ## TODO List
 ### _Try to_:
-- [ ] Create a script for the camera to follow the player
-- [ ] Added effects to the camera, or any other types of scripts you can think of.
+- [ ] Create a script for the camera to follow the player.
+- [ ] Add effects to the camera.
+- [ ] Create a gamemaster to spawn gems
+- [ ] Add a script to collect and destroy gems on collection, adding to points in your gamemaster.
